@@ -1,0 +1,115 @@
+[{
+    "username": "zhangsan",
+    "email": "zhangsan@qq.com",
+    "password": "987654",
+    "role": "admin",
+    "state": 0
+},{
+    "username": "lisi",
+    "email": "lisi@qq.com",
+    "password": "123456",
+    "role": "normal",
+    "state": 0
+},{
+    "username": "lisi",
+    "email": "lisi1@qq.com",
+    "password": "123456",
+    "role": "normal",
+    "state": 0
+},{
+    "username": "lisi",
+    "email": "lisi2@qq.com",
+    "password": "123456",
+    "role": "normal",
+    "state": 0
+},{
+    "username": "lisi",
+    "email": "lisi3@qq.com",
+    "password": "123456",
+    "role": "normal",
+    "state": 0
+},{
+    "username": "lisi",
+    "email": "lisi4@qq.com",
+    "password": "123456",
+    "role": "normal",
+    "state": 0
+},{
+    "username": "lisi",
+    "email": "lisi5@qq.com",
+    "password": "123456",
+    "role": "normal",
+    "state": 0
+},{
+    "username": "lisi",
+    "email": "lisi6@qq.com",
+    "password": "123456",
+    "role": "normal",
+    "state": 0
+},{
+    "username": "lisi",
+    "email": "lisi7@qq.com",
+    "password": "123456",
+    "role": "normal",
+    "state": 0
+},{
+    "username": "lisi",
+    "email": "lisi8@qq.com",
+    "password": "123456",
+    "role": "normal",
+    "state": 0
+},{
+    "username": "lisi",
+    "email": "lisi9@qq.com",
+    "password": "123456",
+    "role": "normal",
+    "state": 0
+},{
+    "username": "lisi",
+    "email": "lisi10@qq.com",
+    "password": "123456",
+    "role": "normal",
+    "state": 0
+},{
+    "username": "lisi",
+    "email": "lisi11@qq.com",
+    "password": "123456",
+    "role": "normal",
+    "state": 0
+},{
+    "username": "lisi",
+    "email": "lisi12@qq.com",
+    "password": "123456",
+    "role": "normal",
+    "state": 0
+},{
+    "username": "lisi",
+    "email": "lisi13@qq.com",
+    "password": "123456",
+    "role": "normal",
+    "state": 0
+},{
+    "username": "lisi",
+    "email": "lisi14@qq.com",
+    "password": "123456",
+    "role": "normal",
+    "state": 0
+},{
+    "username": "lisi",
+    "email": "lisi15@qq.com",
+    "password": "123456",
+    "role": "normal",
+    "state": 0
+},{
+    "username": "lisi",
+    "email": "lisi16@qq.com",
+    "password": "123456",
+    "role": "normal",
+    "state": 0
+},{
+    "username": "lisi",
+    "email": "lisi17@qq.com",
+    "password": "123456",
+    "role": "normal",
+    "state": 0
+}]
